@@ -1,6 +1,8 @@
 Github's second biggest repo of "Hello World"'s
 ====================
 
+> Inspired by [The Hello World Collection](https://helloworldcollection.github.io/) and the [Hello World repo](https://github.com/leachim6/hello-world) of leachim6.
+
 Top Contributors
 -------
  1. [Tom Klein](https://github.com/tom-klein)
