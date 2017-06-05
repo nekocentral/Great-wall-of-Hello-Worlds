@@ -1,1 +1,0 @@
-helloworld :- write('Hello World').
