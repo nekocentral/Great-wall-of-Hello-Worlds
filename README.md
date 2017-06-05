@@ -1,20 +1,15 @@
-Great Wall of Hello worlds
-=======
-
 Github's second biggest repo of "Hello World"'s
 ====================
 
 Top Contributors
 -------
-
- 1. [Tom Klein](https://github.com/tom-klein): 22 Languages
- 2. [Marcel Haazen](https://github.com/inpothet):  16 Languages
- 3. [Tom Lafford](https://github.com/Laffini): 2 Languages
- 4. [Viljo](https://github.com/viljow): 1 Language
+ 1. [Tom Klein](https://github.com/tom-klein)
+ 2. [Marcel Haazen](https://github.com/inpothet)
+ 3. [Tom Lafford](https://github.com/Laffini)
+ 4. [Viljo](https://github.com/viljow)
 
 Current Languages
 -------
-
  - ASCII binary
  - Assembly GCC
  - Batch
@@ -51,6 +46,7 @@ Current Languages
  - SVG
  - Scala
  - Shell
+ - Visual Basic
  - Visual Basic Script
  - X86 Assembly
  - XML
