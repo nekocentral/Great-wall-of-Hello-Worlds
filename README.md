@@ -18,7 +18,7 @@ Current Languages
  - ASCII binary
  - Assembly GCC
  - Batch
- - Brainfucl
+ - Brainfuck
  - C#
  - C++
  - C
