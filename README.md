@@ -1,7 +1,7 @@
 Great Wall of Hello worlds
 =======
 
-Github's biggest repo of "Hello World"'s
+Github's second biggest repo of "Hello World"'s
 ====================
 
 Top Contributors
