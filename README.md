@@ -8,7 +8,7 @@ Top Contributors
 -------
 
  1. [Tom Klein](https://github.com/tom-klein): 22 Languages
- 2. [Marcel Haazen](https://github.com/inpothet):  11 Languages
+ 2. [Marcel Haazen](https://github.com/inpothet):  16 Languages
  3. [Tom Lafford](https://github.com/Laffini): 2 Languages
  4. [Viljo](https://github.com/viljow): 1 Language
 
@@ -18,9 +18,11 @@ Current Languages
  - ASCII binary
  - Assembly GCC
  - Batch
+ - Brainfucl
  - C#
  - C++
  - C
+ - Crystal
  - CSS
  - Dart
  - Erlang
@@ -33,11 +35,14 @@ Current Languages
  - Java
  - JavaScript
  - Kotlin
+ - LOLCODE
  - Lua
  - NASM
  - Node JS
+ - Markdown
  - PHP
  - Perl
+ - Plain Text
  - Powershell
  - Prolog
  - Python 2/3
